@@ -1,1 +1,2 @@
 HyperOS/1.0.5.0.UMZCNXM/boot_patched.img filter=lfs diff=lfs merge=lfs -text
+HyperOS/1.0.5.0.UMZCNXM/boot_stock.img filter=lfs diff=lfs merge=lfs -text
